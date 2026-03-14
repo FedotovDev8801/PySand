@@ -13,6 +13,6 @@ Contributions are welcome! There is no contribution policy, so I accept (almost)
 - CWHengProj (https://github.com/CWHengProj) for fixing an output bug (pull request #3)
 
 ## License
-I made this just for fun, so you can do whatever you want to this code :p
+I made this just for fun, so you can do whatever you want to this code (it has a mit license) :p
 
-But you still should credit me.
+But it still would be great if you would credit me.
